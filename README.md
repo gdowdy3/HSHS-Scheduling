@@ -20,7 +20,7 @@ This code can be used to efficiently assign volunteers to shifts at Harvard Squa
       - "Shift Focused Output.csv"
       - "Volunteer Focused Output.csv"
     - Save these files to your computer.
-      - Check the boxes next to the first file.
+      - Check the box next to the first file.
       - Click the **Download** button that appears above when you do so.
       - Save it to a convenient location.
       - Repeat for the second file.
